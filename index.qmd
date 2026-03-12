@@ -1,7 +1,79 @@
 ---
-title: "yangshuyanweb"
+title: "欢迎来到我的个人主页"
+page-layout: full
+toc: false
 ---
 
-This is a Quarto website.
+::: {.hero-section}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# 你好，我是杨舒妍 👋
+
+:::
+
+::: {.intro-grid}
+
+::: {.intro-text}
+
+## 关于我
+
+我是一名**环境工程**专业的学生，来自**湖南城市学院**（2020-2024），目前就读于**华中农业大学**。
+
+我热爱环境科学与工程领域，专注于**膜分离技术**和**油水分离材料**的研究，希望用科学技术为环境保护贡献力量。
+
+📍 湖南省长沙市  
+📧 [1791114773\@qq.com](mailto:1791114773@qq.com)  
+📱 18932465475
+
+:::
+
+::: {.intro-cards}
+
+::: {.info-card}
+### 🎓 教育背景
+- 华中农业大学（在读）
+- 湖南城市学院 · 环境工程学士
+:::
+
+::: {.info-card}
+### 🔬 研究方向
+- 膜分离技术
+- 油水分离材料
+- 环境污染控制
+:::
+
+::: {.info-card}
+### 🏆 主要荣誉
+- 湖南省节能减排竞赛三等奖
+- 综合测评一等奖
+- 大创项目校级结项
+:::
+
+:::
+
+:::
+
+---
+
+::: {.nav-cards}
+
+::: {.nav-card}
+### [👤 关于我](about.qmd)
+了解我的详细信息、教育背景与技能
+:::
+
+::: {.nav-card}
+### [🔬 科研经历](research.qmd)
+查看我的科研项目与学术成果
+:::
+
+::: {.nav-card}
+### [💼 个人经历](experience.qmd)
+了解我的学生工作与实习经历
+:::
+
+::: {.nav-card}
+### [🏆 荣誉奖励](awards.qmd)
+查看我获得的各项荣誉与奖励
+:::
+
+:::
