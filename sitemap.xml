@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://D2RS-2026spring.github.io/myhomepage/index.html</loc>
-    <lastmod>2026-03-12T09:41:24.716Z</lastmod>
+    <loc>https://D2RS-2026spring.github.io/myhomepage/research.html</loc>
+    <lastmod>2026-03-12T10:12:34.664Z</lastmod>
+  </url>
+  <url>
+    <loc>https://D2RS-2026spring.github.io/myhomepage/experience.html</loc>
+    <lastmod>2026-03-12T10:13:23.200Z</lastmod>
   </url>
   <url>
     <loc>https://D2RS-2026spring.github.io/myhomepage/about.html</loc>
-    <lastmod>2026-03-12T09:41:24.714Z</lastmod>
+    <lastmod>2026-03-12T10:11:13.725Z</lastmod>
+  </url>
+  <url>
+    <loc>https://D2RS-2026spring.github.io/myhomepage/awards.html</loc>
+    <lastmod>2026-03-12T10:15:29.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://D2RS-2026spring.github.io/myhomepage/index.html</loc>
+    <lastmod>2026-03-12T10:09:43.960Z</lastmod>
   </url>
 </urlset>
